@@ -1,7 +1,7 @@
 <?php
 namespace kilyakus\widget\masonry;
 
-class MassonryAsset extends \kilyakus\widgets\AssetBundle
+class MasonryAsset extends \kilyakus\widgets\AssetBundle
 {
     public function init()
     {
